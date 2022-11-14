@@ -48,8 +48,7 @@
     -ms-touch-action: auto;
 }
 html {
-scrollbar-width: 3rem;
-scrollbar-color:red;
+
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -9528,7 +9527,7 @@ h2,p{
   color: #18273e;
 }
 
-.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
+/* .owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
   -ms-touch-action: auto;
       touch-action: auto;
-}
+} */
